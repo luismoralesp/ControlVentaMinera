@@ -1,0 +1,2 @@
+https://github.com/sarxos/webcam-capture/blob/master/LICENSE.txt
+http://roncemer.com/software-development/java-ocr/
